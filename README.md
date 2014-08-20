@@ -1,10 +1,14 @@
-# nodejs box
+# Node.js box
 
-Latest NodeJS version
+A wercker box with the latest Node.js of the `0.10` branch.
+
+The box version map to the following Node.js versions.
+
+- `wercker/nodejs@1` map to the `0.10` Node.js branch.
 
 # What's new
 
-- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.0.6`
+- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.3.0`
 
 # License
 
@@ -12,11 +16,15 @@ The MIT License (MIT)
 
 # Changelog
 
+## 1.1.0
+
+- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.3.0`
+
 ## 1.0.2
 
 - Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.0.6`
 
-## 1.0.1 
+## 1.0.1
 
 - Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.0.2`
 
