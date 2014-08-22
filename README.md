@@ -8,13 +8,17 @@ The box version map to the following Node.js versions.
 
 # What's new
 
-- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.3.0`
+- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.4.0`
 
 # License
 
 The MIT License (MIT)
 
 # Changelog
+
+## 1.2.0
+
+- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.4.0`
 
 ## 1.1.0
 
