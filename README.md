@@ -8,14 +8,19 @@ The box major version map to the following Node.js minor branches.
 
 # What's new
 
-- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.5.0`
-  - Update Node.js to version `0.10.32`
+- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.6.0`
+  - Update Node.js to version `0.10.33`
 
 # License
 
 The MIT License (MIT)
 
 # Changelog
+
+## 1.4.0
+
+- Inherit `wercker/ubuntu12.04-nodejs0.10` version `1.6.0`
+  - Update Node.js to version `0.10.33`
 
 ## 1.3.0
 
